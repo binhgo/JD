@@ -49,7 +49,7 @@ We are currently **rebuilding our system from the ground up**. This is a greenfi
 
 ### Core Competencies (Must-Have)
 
-- **5-6 years of professional Golang development** with demonstrable expertise
+- **6-8 years of professional Golang development** with demonstrable expertise
 - **Deep understanding of Go idioms**: goroutines, channels, context, error handling patterns
 - **Strong computer science fundamentals**: data structures, algorithms
 - **Clean Code practices**: meaningful naming, small functions, proper error handling
@@ -59,7 +59,7 @@ We are currently **rebuilding our system from the ground up**. This is a greenfi
 
 | Category | Technologies |
 |----------|-------------|
-| **Programming Language** | Golang — **5-6 years of professional experience required** |
+| **Programming Language** | Golang — **6-8 years of professional experience required** |
 | **Databases** | MongoDB (including transactions, aggregation pipelines, indexing strategies) |
 | **Caching** | Redis (including Redis Streams for event queuing) |
 | **Architecture** | Microservices architecture with clean/layered design patterns |
